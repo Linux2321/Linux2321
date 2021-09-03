@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Linux2321
+- 👀 I'm interested in Linux and Android Mod
+- 🌱 I'm currently learning Linux security
